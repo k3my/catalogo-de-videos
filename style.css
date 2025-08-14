@@ -2,3 +2,15 @@ body {
 color: white;
 background: black;
 }
+
+header {
+border-bottom: solid 2px rgb(115, 37, 131);
+padding: 20px;
+font-size: 32px;
+color: rgb(115, 57, 108);
+
+}
+
+section {
+background: rgb(184, 156, 213);
+}
